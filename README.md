@@ -18,13 +18,21 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 
 <h2>Dependências</h2>
 
-Anaconda / Jupyter
+Anaconda
 https://www.anaconda.com/products/distribution/start-coding-immediately
 ou
 https://jupyter.org/try (versão online)
 
 
 <h2>Dependências p/ qualquer outra IDE:</h2>
+- pyautogui
+- openpyxl
+- pandas
+- numpy
+- pyperclip
+- time
+
+
 <h2>Base de dados</h2>
 
 Caso os arquivos não estejam mais disponíveis no google drive, o projeto acompanha os arquivos, porém é necessário alterar o código para o acesso local aos arquivos de base de dados.

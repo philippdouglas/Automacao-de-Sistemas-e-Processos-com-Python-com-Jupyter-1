@@ -1,4 +1,4 @@
-# Automação de Sistemas e Processos com Python 1
+# Automação de Sistemas e Processos com Python 🐍 no Jupyter
 
 ## Desafio:
 

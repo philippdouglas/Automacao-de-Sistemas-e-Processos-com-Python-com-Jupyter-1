@@ -7,13 +7,14 @@ O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, ass
 Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de comandos do mouse e do teclado
 
 <h2>Etapas<h2>
-
+<h3>
 - Entrar no sistema da empresa (vamos usar uma base de dados no Google Drive como exemplo)
 - Navegar no sistema e encontrar a base de vendas (acessar a pasta exportar no Google Drive)
 - Fazer o donwload da base de dados
 - Importar a base de dados para o Python
 - Calcular os indicadores
 - Enviar um e-mail com os indicadores
+<h3>
 
 ##Dependências
 

@@ -14,7 +14,7 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 - Importar a base de dados para o Python
 - Calcular os indicadores
 - Enviar um e-mail com os indicadores
-<h3>
+</h3>
 
 ##Dependências
 

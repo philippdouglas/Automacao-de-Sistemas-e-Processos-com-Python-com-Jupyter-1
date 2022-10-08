@@ -6,7 +6,7 @@ Todos os dias, o nosso sistema atualiza as vendas do dia anterior.
 O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
 Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de comandos do mouse e do teclado
 
-###Etapas
+##Etapas
 
 - Entrar no sistema da empresa (vamos usar uma base de dados no Google Drive como exemplo)
 - Navegar no sistema e encontrar a base de vendas (acessar a pasta exportar no Google Drive)
@@ -15,7 +15,7 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 - Calcular os indicadores
 - Enviar um e-mail com os indicadores
 
-###Dependências
+##Dependências
 
 Anaconda / Jupyter
 https://www.anaconda.com/products/distribution/start-coding-immediately
@@ -23,7 +23,7 @@ ou
 https://jupyter.org/try (versão online)
 
 
-###Dependências p/ qualquer outra IDE:
+##Dependências p/ qualquer outra IDE:
 
 #pyautogui
 #openpyxl

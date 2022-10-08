@@ -1,4 +1,6 @@
-# Automação de Sistemas e Processos com Python 🐍 no Jupyter
+# Automação de Sistemas e Processos com Python 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+           no Jupyter 
 
 ## Desafio:
 
@@ -22,12 +24,6 @@ Anaconda
 https://www.anaconda.com/products/distribution/start-coding-immediately
 ou
 https://jupyter.org/try (versão online)
-
-
-<h2>Dependências p/ qualquer outra IDE:
-'pyautogui'
-'numpy'
-</h2>
 
 <h2>Base de dados</h2>
 

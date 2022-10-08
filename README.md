@@ -20,11 +20,11 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 - Calcular os indicadores
 - Enviar um e-mail com os indicadores
 
-
-
+<div>
+<h2>Dependências</h2>
 <div style="display: online_block"><br>
 	<img align= "center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
-	<h2>Dependências</h2>
+	
 </div>
 Anaconda 
 https://www.anaconda.com/products/distribution/start-coding-immediately

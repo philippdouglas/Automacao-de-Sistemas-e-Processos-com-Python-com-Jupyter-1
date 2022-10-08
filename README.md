@@ -23,7 +23,7 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 
 <h2>Dependências</h2>
 <div style="display: online_block"><br>
-	<img align= "center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">		
+	<img align= "center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">		
 </div>
 Anaconda 
 https://www.anaconda.com/products/distribution/start-coding-immediately

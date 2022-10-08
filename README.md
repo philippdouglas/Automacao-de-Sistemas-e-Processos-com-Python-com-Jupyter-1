@@ -24,9 +24,10 @@ ou
 https://jupyter.org/try (versão online)
 
 
-<h2>Dependências p/ qualquer outra IDE:</h2>
+<h2>Dependências p/ qualquer outra IDE:
 'pyautogui'
 'numpy'
+</h2>
 
 <h2>Base de dados</h2>
 

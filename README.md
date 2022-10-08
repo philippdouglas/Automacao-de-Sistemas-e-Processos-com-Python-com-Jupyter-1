@@ -2,8 +2,7 @@
 <div style="display: online_block"><br>
 	<img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 </div>
-##
-
+	
 ## Desafio:
 
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior.

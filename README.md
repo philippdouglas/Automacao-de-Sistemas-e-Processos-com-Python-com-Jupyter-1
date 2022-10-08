@@ -30,7 +30,7 @@ Anaconda
 https://www.anaconda.com/products/distribution/start-coding-immediately
 ou
 <div style="display: online_block"><br>
-	<img align= "center" height="50" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg](https://miro.medium.com/max/640/1*CMvcTaLSAD5A-WHCtnIFwA.png)">	
+	<img align= "center" height="50" width="60" src="https://miro.medium.com/max/640/1*CMvcTaLSAD5A-WHCtnIFwA.png">	
 </div>
 
 https://jupyter.org/try (versão online)

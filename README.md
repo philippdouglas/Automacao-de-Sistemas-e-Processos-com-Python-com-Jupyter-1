@@ -5,7 +5,7 @@
 	<img align= "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">	
 </div>
 
-## Desafio:
+## Desafio
 
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior.
 O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
@@ -20,9 +20,9 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 - Calcular os indicadores
 - Enviar um e-mail com os indicadores
 
-<div>
-<h2>Dependências</h2>
-<div style="display: online_block"><br>
+
+
+<<h2>Dependências</h2>div style="display: online_block"><br>
 	<img align= "center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
 	
 </div>

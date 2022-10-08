@@ -16,7 +16,7 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 - Enviar um e-mail com os indicadores
 
 
-##Dependências
+<h2>Dependências</h2>
 
 Anaconda / Jupyter
 https://www.anaconda.com/products/distribution/start-coding-immediately
@@ -24,13 +24,13 @@ ou
 https://jupyter.org/try (versão online)
 
 
-##Dependências p/ qualquer outra IDE:
+<h2>Dependências p/ qualquer outra IDE:</h2>
 
-#pyautogui
-#openpyxl
-#pandas
-#numpy
+*pyautogui
+*openpyxl
+*pandas
+*numpy
 
-##Base de dados
+<h2>Base de dados</h2>
 
 Caso os arquivos não estejam mais disponíveis no google drive, o projeto acompanha os arquivos, porém é necessário alterar o código para o acesso local aos arquivos de base de dados.

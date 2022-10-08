@@ -22,10 +22,10 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 
 
 <h2>Dependências</h2>
-
-Anaconda <div style="display: online_block"><br>
+<div style="display: online_block"><br>
 	<img align= "center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">		
 </div>
+Anaconda 
 https://www.anaconda.com/products/distribution/start-coding-immediately
 ou
 https://jupyter.org/try (versão online)

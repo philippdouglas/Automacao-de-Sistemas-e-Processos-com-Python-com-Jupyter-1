@@ -28,7 +28,7 @@ Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de com
 	
 Anaconda 
 https://www.anaconda.com/products/distribution/start-coding-immediately
-ou
+	ou
 <div style="display: online_block"><br>
 	<img align= "center" height="50" width="60" src="https://miro.medium.com/max/640/1*CMvcTaLSAD5A-WHCtnIFwA.png">	
 </div>

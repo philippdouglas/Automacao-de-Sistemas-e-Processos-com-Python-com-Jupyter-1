@@ -25,13 +25,8 @@ https://jupyter.org/try (versão online)
 
 
 <h2>Dependências p/ qualquer outra IDE:</h2>
-- pyautogui
-- openpyxl
-- pandas
-- numpy
-- pyperclip
-- time
-
+*pyautogui
+*numpy
 
 <h2>Base de dados</h2>
 

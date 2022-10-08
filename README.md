@@ -25,12 +25,6 @@ https://jupyter.org/try (versão online)
 
 
 <h2>Dependências p/ qualquer outra IDE:</h2>
-
--pyautogui
--openpyxl
--pandas
--numpy
-
 <h2>Base de dados</h2>
 
 Caso os arquivos não estejam mais disponíveis no google drive, o projeto acompanha os arquivos, porém é necessário alterar o código para o acesso local aos arquivos de base de dados.
